@@ -1,0 +1,9 @@
+.menu{
+    background: #8c2020;
+}
+
+.menu-item{
+    color: #fff;
+    font-weight: bold;
+    padding: 17px;
+}
